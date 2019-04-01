@@ -148,4 +148,4 @@ Imagens de placeholder - http://lorempixel.com/
 Mock de APIs 
 - https://reqres.in/
 - https://www.mocky.io/
-
+- https://jsonplaceholder.typicode.com/
