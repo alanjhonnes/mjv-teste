@@ -21,7 +21,9 @@ Sugestões de funcionalidades a serem desenvolvidas e as respectivas pontuaçõe
 Sugerimos cerca de 2 funcionalidades a serem feitas.
 
 Para desenvolvedores Frontend pode-se mockar os dados no front, mas a demonstração de consumo de APIs é recomendada.
+
 Para desenvolvedores Backend pode-se fazer somente a API em GraphQL ou os endpoints REST c/ Swagger.
+
 Para desenvolvedores Full-stack, é esperado uma aplicação web consumindo um backend em GraphQL ou Rest.
 
 ### Entregáveis
