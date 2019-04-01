@@ -2,7 +2,7 @@
 
 Propomos um teste unificado para a avaliação de desenvolvedores Frontend/Backend/Full-stack com base em diferentes tópicos que podem ser escolhidos de acordo com os conhecimentos do candidato. 
 
-O objetivo do teste é montar parte(s) de um sistema de loja virtual e atingir uma somatória de 100 pontos entre funcionalidades e tópicos demonstrados.
+O objetivo do teste é montar parte(s) de um sistema de loja virtual e **atingir uma somatória de 100 pontos** entre funcionalidades e tópicos demonstrados. Portanto, não se preocupe em fazer todas as funcionalidades e tópicos listadas abaixo, foque nos que você tem mais conhecimento e facilidade. Sugerimos cerca de 2 funcionalidades a serem feitas para atingir a pontuação.
 
 Sugestões de funcionalidades a serem desenvolvidas e as respectivas pontuações máximas em parênteses:
 - Menu de Categorias  (20 pontos)
@@ -17,8 +17,6 @@ Sugestões de funcionalidades a serem desenvolvidas e as respectivas pontuaçõe
 - Lista de produtos (administrativo) (35 pontos)
 - Paginação (10 pontos p/ paginação client-side, 20 pontos p/ paginação server-side)
 - Cadastro de produto (25 pontos)
-
-Sugerimos cerca de 2 funcionalidades a serem feitas.
 
 Para desenvolvedores Frontend pode-se mockar os dados no front, mas a demonstração de consumo de APIs é recomendada.
 
