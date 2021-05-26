@@ -53,7 +53,7 @@ Below are the topics we would like to see according to the stack and in parenthe
 - Use of auxiliary types (eg: Required, Record, etc.) (+3)
 - Use of Generics (+3)
 
-** Linter **
+**Linter**
 - Apply linter to normalize the style of the project (ex: ESLint, TSLInt) (+5)
 
 **Tests**
@@ -100,7 +100,7 @@ Below are the topics we would like to see according to the stack and in parenthe
 - Component performance tuning (+5)
 - Request interceptor configuration (+5)
 
-** RxJS **
+**RxJS**
 - Demonstrate the use of RxJS operators (eg debounce of key strokes, retries of request) (+10)
 - Demonstrate use of Subjects (eg state storage) (+10)
 - Demonstrate error handling (+5)
@@ -128,7 +128,7 @@ Below are the topics we would like to see according to the stack and in parenthe
 - Request data validation (+5)
 - Use some tool to assist the development (nodemon, node-dev, ts-node-dev, etc.) (+3)
 
-** GraphQL **
+**GraphQL**
 - GraphQL endpoint creation (+10)
 - Build Query operations (+10 p / query)
 - Build Mutation operations (+10 for mutation)
