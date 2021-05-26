@@ -38,12 +38,13 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack e em par�
 - Demonstrar conhecimento de programação orientada a objetos (+3)
 - Demonstrar conhecimento de programação funcional (+10)
 - Utilização de estruturas imutáveis de dados (+3)
-- Utilização de scripts npm (+2)
+
 
 **Javascript**
 - Demonstrar uso de funcionalidades novas no Javascript (ex: async/wait, spread operators, arrow functions, template literals, etc) (+3)
 - Documentação com JSDocs (+3)
 - Encadeamento de Promises (+5)
+- Utilização de scripts npm (+2)
 
 **Typescript**
 - Demonstrar conhecimento e aplicação de Typescript (interfaces, tipos, união/intersecção de tipos, literais, etc) (+10)
