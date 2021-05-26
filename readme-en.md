@@ -38,12 +38,12 @@ Below are the topics we would like to see according to the stack and in parenthe
 - Demonstrate knowledge of object-oriented programming (+3)
 - Demonstrate knowledge of functional programming (+10)
 - Use of immutable data structures (+3)
-- Use of npm scripts (+2)
 
 **Javascript**
 - Demonstrate the use of new features in Javascript (ex: async / wait, spread operators, arrow functions, template literals, etc.) (+3)
 - Documentation with JSDocs (+3)
 - Chain of Promises (+5)
+- Use of npm scripts (+2)
 
 **Typescript**
 - Demonstrate knowledge and application of Typescript (interfaces, types, union / intersection of types, literals, etc.) (+10)
@@ -121,8 +121,8 @@ Below are the topics we would like to see according to the stack and in parenthe
 **NodeJS/C#** 
 - Application creation (+10)
 - Use of relational / non-relational database (+10)
-- Bank structure script (+15)
-- Script for popular bank (+10)
+- Database structure script (+15)
+- Script to populate database (+10)
 - Use of middleware (+5)
 - Use of JSON Web Tokens for authentication (+10)
 - Request data validation (+5)
