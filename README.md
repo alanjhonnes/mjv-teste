@@ -32,15 +32,17 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack e em par�
 
 ## Tópicos Comums (Front/Back): 
 
-**Javascript**
+**Geral**
 - Demonstrar boa legibilidade de código (+10)
 - Demonstrar domínio de lógica de programação (+10)
-- Demonstrar uso de funcionalidades novas no Javascript (ex: async/wait, spread operators, arrow functions, template literals, etc) (+3)
 - Demonstrar conhecimento de programação orientada a objetos (+3)
 - Demonstrar conhecimento de programação funcional (+10)
 - Utilização de estruturas imutáveis de dados (+3)
-- Documentação com JSDocs (+3)
 - Utilização de scripts npm (+2)
+
+**Javascript**
+- Demonstrar uso de funcionalidades novas no Javascript (ex: async/wait, spread operators, arrow functions, template literals, etc) (+3)
+- Documentação com JSDocs (+3)
 - Encadeamento de Promises (+5)
 
 **Typescript**
@@ -116,8 +118,8 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack e em par�
 
 ## Tópicos de Backend:
 
-**NodeJS** 
-- Criação de aplicação NodeJS (+10)
+**NodeJS/C#** 
+- Criação de aplicação (+10)
 - Uso de banco de dados relacional/não relacional (+10)
 - Script p/ estrutura do banco (+15)
 - Script p/ popular banco (+10)
