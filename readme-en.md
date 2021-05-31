@@ -1,4 +1,4 @@
-# MJV Developer Test
+# Developer Test
 
 We propose a unified test for the evaluation of Frontend / Backend / Full-stack developers based on different topics that can be chosen according to the candidate's knowledge. 
 
