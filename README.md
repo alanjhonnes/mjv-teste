@@ -1,4 +1,4 @@
-# Teste p/ Desenvolvedor MJV
+# Teste p/ Desenvolvedor
 
 Propomos um teste unificado para a avaliação de desenvolvedores Frontend/Backend/Full-stack com base em diferentes tópicos que podem ser escolhidos de acordo com os conhecimentos do candidato. 
 
