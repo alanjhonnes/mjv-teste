@@ -2,7 +2,7 @@
 
 We propose a unified test for the evaluation of Frontend / Backend / Full-stack developers based on different topics that can be chosen according to the candidate's knowledge. 
 
-The purpose of the test is to assemble part (s) of a virtual store system and ** achieve a sum of 100 points ** between features and topics demonstrated. So, don't worry about doing all the features and topics listed below, focus on the ones you have the most knowledge and ease with. We suggest about 2 features to be done to achieve the score.
+The purpose of the test is to assemble part (s) of a virtual store system and **achieve a sum of 100 points** between features and topics demonstrated. So, don't worry about doing all the features and topics listed below, focus on the ones you have the most knowledge and ease with. We suggest about 2 features to be done to achieve the score.
 
 Suggestions of features to be developed and the respective maximum scores in parentheses:
 - Menu of Categories (20 points)
@@ -26,7 +26,7 @@ For Full-stack developers, a web application is expected consuming a GraphQL or 
 
 ### Deliverable
 
-Send us an email with the link (s) of the repositories containing the projects and optionally a link to the published application. Each repository must contain a README.md file like this, briefly explaining the functionalities performed, how to run the application, populate database etc. and optionally which topics were covered. If you want to publish your test, we suggest using ** [Heroku] (https://heroku.com.br) **, where it is possible to create publish your applications free of charge and with Postgres / MongoDb database.
+Send us an email with the link (s) of the repositories containing the projects and optionally a link to the published application. Each repository must contain a README.md file like this, briefly explaining the functionalities performed, how to run the application, populate database etc. and optionally which topics were covered. If you want to publish your test, we suggest using **[Heroku] (https://heroku.com.br)**, where it is possible to create publish your applications free of charge and with Postgres / MongoDb database.
 
 Below are the topics we would like to see according to the stack and in parentheses the maximum score bonus to be obtained when attending the topic. We want you to show us your best, so select the features and topics that will give you the most opportunity to show your knowledge without the need to extend the test.
 
