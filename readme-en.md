@@ -26,7 +26,7 @@ For Full-stack developers, a web application is expected consuming a GraphQL or 
 
 ### Deliverable
 
-Send us an email with the link (s) of the repositories containing the projects and optionally a link to the published application. Each repository must contain a README.md file like this, briefly explaining the functionalities performed, how to run the application, popular database etc. and optionally which topics were covered. If you want to publish your test, we suggest using ** [Heroku] (https://heroku.com.br) **, where it is possible to create publish your applications free of charge and with Postgres / MongoDb database.
+Send us an email with the link (s) of the repositories containing the projects and optionally a link to the published application. Each repository must contain a README.md file like this, briefly explaining the functionalities performed, how to run the application, populate database etc. and optionally which topics were covered. If you want to publish your test, we suggest using ** [Heroku] (https://heroku.com.br) **, where it is possible to create publish your applications free of charge and with Postgres / MongoDb database.
 
 Below are the topics we would like to see according to the stack and in parentheses the maximum score bonus to be obtained when attending the topic. We want you to show us your best, so select the features and topics that will give you the most opportunity to show your knowledge without the need to extend the test.
 
