@@ -61,7 +61,7 @@ Below are the topics we would like to see according to the stack and in parenthe
 - Demonstrate mock knowledge for class dependencies (+5)
 - Achieve good level of code-coverage with tests (+10)
 
-**Go**
+**Git**
 - Demonstrate good atomicity in commits (ex: single commit for functionality or bugfix) (+5)
 - Demonstrate good use of commit messages (+5)
 - Use some standard commit message format (+5)
